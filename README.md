@@ -1,14 +1,14 @@
 <h1 align="center"> RocketPay </h1>
 
 <p align="center">
-O RocketPay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
+  <img alt="rocketpay" src=".github/project.png" width="70%">
 </p>
 
 <p align="center">
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+      <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#memo-licença">Licença</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center">
@@ -17,9 +17,12 @@ O RocketPay é um componente que simula o formulário de preenchimento de cartã
 
 <br>
 
-<p align="center">
-  <img alt="rocketpay" src=".github/project.png" width="100%">
+## 👩🏻‍💻 Projeto
+<p>
+O RocketPay é um componente que simula o formulário de preenchimento de cartão de crédito, onde é possível adicionar máscara aos inputs e atualizar elementos HTML via DOM.
 </p>
+
+[🔗 É possível acessar o projeto clicando aqui! 💜](https://rocketpay-cjk8clfo9-fernandadiasm.vercel.app/)
 
 ## 🚀 Tecnologias
 
@@ -36,8 +39,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 Esse projeto está sob a licença MIT.
 
 ---
-
-Feito com ♥ by Fernanda Dias
+#### Feito com ♥ by Fernanda Dias
 <div>
 <p align="left">
 <a href="https://www.linkedin.com/in/fernandadiasme" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
